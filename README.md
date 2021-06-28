@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning akai hybrid
 - 💞️ I’m looking to collaborate on crook music box
-- 📫 How to reach me serenacrook@gmail.com
+- 📫 How to reach me 
 
 <!---
 serenacrook/serenacrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
